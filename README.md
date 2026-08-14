@@ -4,12 +4,12 @@ This project implements an Adaptive Software Engineering (ASE) architecture usin
 
 ## Team Members
 
-| Roll No.    | Name      | Assigned Role |
-| :---------- | :-------- | :------------ |
-| 2420030669  | CH.ADITYA  | [Role 1]      |
-| 2420030716  | K.GOKUL    | [Role 2]      |
-| 2420090098  | A.AARYAN   | [Role 3]      |
-| 2420030679  | G.Nishanth | [Role 4]      |
+| Roll No.    | Name      | 
+| :---------- | :-------- | 
+| 2420030669  | CH.ADITYA  |
+| 2420030716  | K.GOKUL    |
+| 2420090098  | A.AARYAN   |
+| 2420030679  | G.Nishanth |
 
 ## Architecture Breakdown
 
